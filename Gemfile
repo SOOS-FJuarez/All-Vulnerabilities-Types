@@ -25,7 +25,7 @@ gem "test-3"
 gem "test-4"
 gem "test-5"
 gem "test-6"
-gem "carrierwave", "3.0.4"
+gem "carrierwave", "3.0.7"
 gem "addressable", "2.3.8"
 
 
